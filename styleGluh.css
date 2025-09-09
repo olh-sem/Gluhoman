@@ -1,0 +1,48 @@
+.body_background {BACKGROUND: url(img/ua_logo.jpg) no-repeat center top;
+background-color:#F68121; }
+.ua_body_background {BACKGROUND: url(img/ua_logo.jpg) no-repeat center top;}
+.en_body_background {BACKGROUND: url(img/en_logo.jpg) no-repeat center top;}
+.bottom_background {BACKGROUND: url(img/home_gradient.gif) no-repeat center top; background-color:#00733A;}
+
+
+
+.breadcrumbhome {
+	FONT:12px Verdana, Arial, Helvetica, sans-serif;  COLOR: #666666; TEXT-DECORATION: none
+}
+
+A.breadcrumbhome:hover {
+	COLOR: #f3f3f3
+}
+A.toolbar:hover {
+	COLOR: #f3f3f3
+}
+
+.toolbar {
+	FONT:12px Verdana, Arial, Helvetica, sans-serif;   COLOR: #666666; TEXT-DECORATION: none; 
+}
+
+
+
+.toolbar2 {
+	FONT:12px Verdana, Arial, Helvetica, sans-serif; font-weight:bold;   COLOR: #000000; TEXT-DECORATION: none; 
+}
+.footerhome{FONT:10px Verdana, Arial, Helvetica, sans-serif;    COLOR: #996600;  TEXT-DECORATION: none; margin-bottom:10px; padding-bottom:10px;
+	
+}
+A.footerhome:hover {
+	COLOR: #273c5b
+}
+
+.footerhome2{FONT:10px Verdana, Arial, Helvetica, sans-serif;    COLOR: #FFFFFF;  TEXT-DECORATION: none; margin-bottom:10px; padding-bottom:10px;
+	
+}
+A.footerhome2:hover {
+	COLOR: #273c5b
+}
+
+.featuretext {FONT:11px Verdana, Arial, Helvetica, sans-serif;    COLOR: #000000;  TEXT-DECORATION: none; margin-bottom:10px; padding-bottom:10px;
+	
+}
+A.featuretext:hover {
+	COLOR: #f3f3f3
+}
